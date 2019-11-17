@@ -1,0 +1,14 @@
+section#conteudo{
+  width: 1100px;
+  margin-left: 100px;
+  background-color:;
+
+}
+
+iframe#frame-spec{
+  width: 495px;
+  height: 290px;
+  border: none;
+  overflow: hidden;
+
+}
